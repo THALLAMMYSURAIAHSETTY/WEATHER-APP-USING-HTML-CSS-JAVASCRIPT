@@ -1,6 +1,6 @@
 let resultcont = document.getElementById('resultcont');
 
-const API_Key = '27b6acd8bb657adac00363aea266a340';
+const API_Key = '8675c0e6e4d46615adb116ad1768cdde';
 
 function showreport() {
   let city = document.getElementById('citynameinput').value;
